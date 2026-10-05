@@ -1,1 +1,1 @@
-# StudyMat
+# StudyMate
